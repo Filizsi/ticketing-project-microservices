@@ -10,7 +10,7 @@ spring:
           uri: https://github.com/Cydeo-JD-A2/ticketing-project-microservice-config.git
           default-label: master
           username: CundullahT-CT
-          password: '{cipher}4bb5b85d6aa51e8e2b52dea00c93f5b8f7daf853852e7cf44b0f2752ee4afbc85e1fdcb472d7eaf0229e70f7ee37715d9f27a5fac91da4d4363b5607247f27ab'
+          password: '{cipher}59e36c75b0ce0e4b3c320dc59172760a712d884f4b35d11c648bc2aa34b48e591bdfc68ae383cc1b6627753434dbdf6c1250c34ce53f2e55092c7be53460905b'
       fail-fast: true
 encrypt:
   key: cydeo
