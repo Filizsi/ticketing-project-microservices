@@ -7,10 +7,10 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/ozzy-dev/ticketing-project-microservices-config.git
+          uri: https://github.com/Cydeo-JD-A2/ticketing-project-microservice-config.git
           default-label: master
-          username: ozzy-dev
-          password: '{cipher}3c8ac4ccd568081b3b8ccaae369ecb9954ef618eeee28fa305b3b6294036238004b528054f9f0a8c4d2a8a29ae6417093895a55a1e545895030addad0e1d32aa'
+          username: CundullahT-CT
+          password: '{cipher}9eb282bb64ca51a334031e02e4fe06801173cc67aaee631bf3fab9e949bf648bb9f31ef686f46495051a751e1eb8606296aa2dd1ca3d93379ae7048d84b99c81'
       fail-fast: true
 encrypt:
   key: cydeo
